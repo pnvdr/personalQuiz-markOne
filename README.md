@@ -1,2 +1,2 @@
-# marvelQuiz-markTwo
-source code for the marvel quiz cli app, hosted live on replt.it
+# personalQuiz-markOne
+source code for my personal quiz cli app
